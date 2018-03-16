@@ -1,8 +1,6 @@
 <?php 
 
-dfsfstring
-
-define(MSE, 'value');
+define("HANG_OUT", "value");
 
 echo 'dfsfstring';
 ?>
